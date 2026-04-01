@@ -1,0 +1,4 @@
+# Ignore the data directory
+data
+# Ignore the misc directory
+misc
